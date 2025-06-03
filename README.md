@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **React Native · React · TensorFlow · Python · UI/UX strategy**  
 - 👯 I’m looking to collaborate on **Budget Buddy – A student-friendly AI financial planner**  
 - 💬 Ask me about **React · Vue · GSAP · Firebase · UI Design**  
-- 📫 Reach me at: **📩 isurudesilva06@gmail.com**  
+- 📫 Reach me at: **📩 silvaisuru90@gmail.com**  
 - ⚡ Fun fact: **I can recognize fonts by just looking at them 👀 (seriously!)**
 
 ---
