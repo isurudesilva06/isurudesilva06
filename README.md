@@ -1,7 +1,7 @@
-# <h1 align="center">
-  Hi there! 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  I'm Isuru
+# <h1 align="center" style="font-size: 4em; font-weight: bold;">
+  <b>Hi there! 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+  I'm Isuru</b>
 </h1>
 
 <div align="center">
@@ -38,7 +38,6 @@
 - 🎯 Goal: **Make AI simple and useful for everyone**  
 - 📬 Reach me at: `isurudesilva06@gmail.com`  
 - ⚡ Fun fact: I can recognize fonts just by looking at them 👀  
-
 
 
 ---
@@ -176,7 +175,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=isurudesilva06&theme=react&hide_border=true&bg_color=0D1117" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isurudesilva06&repo=Final_Project&theme=react&hide_border=true&bg_color=0D1117" alt="Pinned Repository" />
 </div>
 
 ---
@@ -184,12 +183,12 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with Me**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=Let's+connect+and+collaborate!;Always+open+to+new+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=Let's+connect+and+collaborate!;Always+open+to+new+opportunities;Click+on+any+badge+to+connect!" />
 </div>
 
 <div align="center">
   <a href="mailto:isurudesilva06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" />
   </a>
   <a href="https://linkedin.com/in/isurudesilva06">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -199,6 +198,19 @@
   </a>
   <a href="https://twitter.com/isurudesilva06">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/isurudesilva06">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/yourdiscord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>📧 Quick Contact Form</h3>
+  <a href="mailto:isurudesilva06@gmail.com?subject=Hello%20Isuru!&body=Hi%20Isuru,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!%0D%0A%0D%0ABest%20regards">
+    <img src="https://img.shields.io/badge/Send%20Quick%20Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
