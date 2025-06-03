@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru</h1>
-<h3 align="center">Hey there! I'm Isuru — a curious coder, creative designer, and final-year CS student building smart, human-centered apps with AI and clean UI. Welcome to my world of code!</h3>
+<h3 align="center"> A curious coder, creative designer, and final-year CS student building smart, human-centered apps with AI and clean UI. Welcome to my world of code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurudesilva06&label=Profile%20views&color=0e75b6&style=flat" alt="isurudesilva06" /> </p>
 
