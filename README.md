@@ -220,13 +220,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isurudesilva06&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisurudesilva06&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count" />
-</div>
 
-> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
