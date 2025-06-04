@@ -1,4 +1,4 @@
-# <h1 align="center" style="font-size: 4em; font-weight: bold;">
+# <h1 align="center" style="font-size: 100em; font-weight: bold;">
   <b>Hi there! 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
   I'm Isuru</b>
