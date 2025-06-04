@@ -1,4 +1,4 @@
-# <h1 align="center" style="font-size: 100em; font-weight: bold;">
+# <h1 align="center" style="font-size: 120em; font-weight: bold;">
   <b>Hi there! 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
   I'm Isuru</b>
@@ -72,7 +72,7 @@
         <br>Python
       </td>
       <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="65" height="65" />
         <br>Node.js
       </td>
     </tr>
