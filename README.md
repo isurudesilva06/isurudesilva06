@@ -36,7 +36,7 @@
 - 💡 Exploring: **TensorFlow**, **LLMs**, and **design systems**  
 - 📱 Passionate about: **React Native**, **Clean UI**, **AI-powered tools**  
 - 🎯 Goal: **Make AI simple and useful for everyone**  
-- 📬 Reach me at: `isurudesilva06@gmail.com`  
+- 📬 Reach me at: `silvaisuru90@gmail.com`  
 - ⚡ Fun fact: I can recognize fonts just by looking at them 👀  
 
 
