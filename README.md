@@ -1,7 +1,7 @@
 # <h1 align="center" style="font-size: 120em; font-weight: bold;">
   <b>Hi there! 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-  I'm Isuru</b>
+  I'm lsuru</b>
 </h1>
 
 <div align="center">
