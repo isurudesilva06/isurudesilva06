@@ -216,7 +216,7 @@
 </div>
 
 
-![Snake animation](https://github.com/isurudesilva06/isurudesilva06/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div align="center">
