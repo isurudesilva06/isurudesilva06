@@ -215,6 +215,10 @@
   </a>
 </div>
 
+
+![Snake animation](https://github.com/isurudesilva06/isurudesilva06/blob/output/github-contribution-grid-snake.svg)
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient" />
 </div>
