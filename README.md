@@ -16,9 +16,24 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=isurudesilva06&theme=discord&margin-w=15&margin-h=15&no-bg=false&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=isurudesilva06&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6&row=1" alt="GitHub Trophies" />
   </a>
 </p>
+
+<!-- Alternative trophy configurations if the above doesn't work -->
+<!-- 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isurudesilva06" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isurudesilva06&theme=onedark&column=-1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=isurudesilva06&theme=discord&margin-w=10&column=6" alt="GitHub Trophies" />
+</p>
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
@@ -38,7 +53,6 @@
 - 🎯 Goal: **Make AI simple and useful for everyone**  
 - 📬 Reach me at: `silvaisuru90@gmail.com`  
 - ⚡ Fun fact: I can recognize fonts just by looking at them 👀  
-
 
 ---
 
@@ -131,7 +145,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurudesilva06&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurudesilva06&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
@@ -215,15 +228,8 @@
   </a>
 </div>
 
-
-
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient" />
 </div>
 
 ---
-
-
-
