@@ -223,7 +223,7 @@
 
 <div align="center">
   <h3>📧 Quick Contact Form</h3>
-  <a href="mailto:isurudesilva06@gmail.com?subject=Hello%20Isuru!&body=Hi%20Isuru,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!%0D%0A%0D%0ABest%20regards">
+  <a href="mailto:silvaisuru90@gmail.com?subject=Hello%20Isuru!&body=Hi%20Isuru,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!%0D%0A%0D%0ABest%20regards">
     <img src="https://img.shields.io/badge/Send%20Quick%20Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
