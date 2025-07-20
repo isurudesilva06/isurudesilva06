@@ -17,6 +17,8 @@
 <img width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
 
 <p align="center">
+
+  
   <img src="https://komarev.com/ghpvc/?username=isurudesilva06&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/isurudesilva06?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
@@ -51,7 +53,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+Native+Specialist;UI%2FUX+Design+Enthusiast;AI+Integration+Expert" alt="Typing SVG" />
 
@@ -144,23 +148,22 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Stats**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D7FF&center=true&width=600&lines=Here+are+my+GitHub+statistics!;Constantly+growing+and+learning" />
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isurudesilva06&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurudesilva06&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
 
+<!-- Advanced GitHub stats with multiple visualizations -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isurudesilva06&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isurudesilva06&theme=github_dark" alt="Profile Summary" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" width="100%"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=fff&icon_color=764ba2" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764ba2&fire=667EEA&currStreakLabel=764ba2" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical" height="180"/>
+
+
+
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **Contribution Activity**
@@ -168,14 +171,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isurudesilva06&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" />
 </div>
-
+<!-- Animated Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isurudesilva06/isurudesilva06/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isurudesilva06/isurudesilva06/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isurudesilva06/isurudesilva06/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 </div>
+
+
 
 ---
 
@@ -235,6 +236,8 @@
     <img src="https://img.shields.io/badge/Send%20Quick%20Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient" />
