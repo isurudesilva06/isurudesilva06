@@ -75,13 +75,16 @@
 
 ## <img src="https://media.giphy.com/media/J4B21n4fEMnWwOXsB6/giphy.gif" width="40"> **My Tools & Stack**
 
+<!-- Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Building+Amazing+Apps+with+Modern+Tech;Always+Learning+New+Technologies!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Building+Amazing+Apps+with+Modern+Tech;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </div>
 
+<!-- Tech Stack Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,native,vue,js,ts,bootstrap,tailwind,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,figma,ps&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,androidstudio,vue,js,ts,bootstrap,tailwind,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,figma,ps&perline=8&theme=dark" alt="Tech Stack" />
 </p>
+
 
 <div align="center">
   <table>
@@ -238,7 +241,7 @@
   <br/>
 
 <div align="center">
-  <a href="mailto:isurudesilva06@gmail.com">
+  <a href="mailto:silvaisuru90@gamil">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" />
   </a>
   <a href="https://linkedin.com/in/isurudesilva06">
@@ -247,17 +250,8 @@
   <a href="https://github.com/isurudesilva06">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/isurudesilva06">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/isurudesilva06">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/yourdiscord">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
-
+ 
+  
 
 <div align="center">
   <h3>📧 Quick Contact Form</h3>
@@ -265,6 +259,9 @@
     <img src="https://img.shields.io/badge/Send%20Quick%20Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient" />
