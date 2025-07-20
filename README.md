@@ -1,17 +1,26 @@
-# <h1 align="center" style="font-size: 120em; font-weight: bold;">
-  <b>Hi there! 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-  I'm lsuru</b>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=667EEA&center=true&vCenter=true&width=600&height=80&lines=Hello+World!+%F0%9F%91%8B;I'm+Isuru;" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=CS+Student+%7C+React+Native+Dev;UI%2FUX+Designer+%7C+AI+Explorer;Turning+ideas+into+clean+code+%F0%9F%92%A1;Welcome+to+my+digital+space+%F0%9F%9A%80;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
 </div>
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%8E%A8+UI%2FUX+DESIGNER;%F0%9F%93%B1+MOBILE+DEVELOPER;%E2%9C%A8+FRONTEND+DEVELOPER;%F0%9F%9A%80+DIGITAL+INNOVATOR" alt="Professional Title Animation" />
+</div>
+<!-- Animated Divider -->
+<img width="100%" src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isurudesilva06&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/isurudesilva06?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
+  
 </p>
 
 <p align="center">
@@ -33,11 +42,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isurudesilva06&theme=discord&margin-w=10&column=6" alt="GitHub Trophies" />
 </p>
+
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
-</div>
+
 
 ---
 
