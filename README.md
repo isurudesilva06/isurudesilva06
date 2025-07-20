@@ -10,6 +10,7 @@
 
 
 
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%8E%A8+UI%2FUX+DESIGNER;%F0%9F%93%B1+MOBILE+DEVELOPER;%E2%9C%A8+FRONTEND+DEVELOPER;%F0%9F%9A%80+DIGITAL+INNOVATOR" alt="Professional Title Animation" />
 </div>
@@ -24,6 +25,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Mobile%20Dev-brightgreen?style=for-the-badge" alt="Focus" />
   
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -48,6 +50,9 @@
 -->
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
 
@@ -146,25 +151,27 @@
 
 ---
 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Stats**
-
-
-
-<!-- Advanced GitHub stats with multiple visualizations -->
+<!-- GitHub Stats with Advanced Visualizations -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" width="100%"/>
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isurudesilva06&theme=radical" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=fff&icon_color=764ba2" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764ba2&fire=667EEA&currStreakLabel=764ba2" height="180"/>
+<!-- Basic Stats and Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=isurudesilva06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=ffffff&icon_color=764ba2" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isurudesilva06&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764ba2&fire=667EEA&currStreakLabel=764ba2" height="180"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical" height="180"/>
-
-
+<!-- Language Usage -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isurudesilva06&theme=radical" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isurudesilva06&theme=radical" height="180"/>
 
 </div>
----
+
+
+
+
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> **Contribution Activity**
 
@@ -209,6 +216,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=Let's+connect+and+collaborate!;Always+open+to+new+opportunities;Click+on+any+badge+to+connect!" />
 </div>
 
+
+<div align="center" style="background: linear-gradient(135deg, rgba(108, 99, 255, 0.2), rgba(255, 107, 107, 0.2)); border-radius: 25px; padding: 30px; border: 2px solid rgba(108, 99, 255, 0.3);">
+  
+  <a href="http://www.linkedin.com/in/yashindibhagya">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://behance.net/yashindibhagya">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" title="Behance"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/yashindibhagya">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" title="Dribbble"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://yashindibhagya.dev">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60" title="Portfolio"/>
+  </a>
+  
+  <br/>
+
 <div align="center">
   <a href="mailto:isurudesilva06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" />
@@ -230,14 +258,13 @@
   </a>
 </div>
 
+
 <div align="center">
   <h3>📧 Quick Contact Form</h3>
   <a href="mailto:silvaisuru90@gmail.com?subject=Hello%20Isuru!&body=Hi%20Isuru,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!%0D%0A%0D%0ABest%20regards">
     <img src="https://img.shields.io/badge/Send%20Quick%20Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontAlignY=65&animation=twinkling&fontColor=gradient" />
