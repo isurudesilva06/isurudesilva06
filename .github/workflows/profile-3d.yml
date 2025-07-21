@@ -17,7 +17,7 @@ jobs:
 
       - uses: gumbobrot/github-profile-3d-contrib@0.7.2
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{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  }}
           USERNAME: ${{ isurudesilva06 }}
 
       - name: Commit changes
