@@ -17,13 +17,13 @@ jobs:
 
       - uses: gumbobrot/github-profile-3d-contrib@0.7.2
         env:
-          GH_TOKEN: ${{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  }}
-          USERNAME: ${{ isurudesilva06 }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
-          git config user.email "[email protected]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A .
           git commit -m "chore: update 3D contribution calendar" || echo "No changes"
           git push
